@@ -1,0 +1,11 @@
+Dirichlets theorem
+
+eulers totient function
+
+from 0 to 43 we have 20 numbers which are co prime to 44
+there fore we write phy(44)=20 phy is euler's totient funtion
+all those numbers which are copriem are called "totatives"
+
+6 rad is close to full turn, 44 rad is more close to a full turn, 710 is extremely close to a full turn.
+
+phy(710)=710(1/2)(4/5)(70/71)=280 hence those 280 lines

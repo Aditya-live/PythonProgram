@@ -1,0 +1,5 @@
+plsql
+
+mysql -uroot -proot hr < c:\desktop\hr.sql #for importing
+
+mysql -uroot -proot hr > c:\desktop\hr.sql #for exporting backup
